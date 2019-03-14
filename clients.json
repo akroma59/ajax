@@ -1,0 +1,8 @@
+{
+    "user": [
+      { "id":1, "name":"john", "age": 21 , "city":"New york" },
+      { "id":2, "name":"jessica", "age": 23,  "city":"New york"  },
+      { "id":3, "name":"robert", "age": 45,  "city":"New york" }
+    ]
+    
+}
